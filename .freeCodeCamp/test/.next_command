@@ -39,3 +39,5 @@ git pull https://github.com/joacofg/learn-relational-databases-by-building-a-dat
 git config pull.rebase false
 git pull https://github.com/joacofg/learn-relational-databases-by-building-a-database-of-video-game-characters
 git add .
+git pull https://github.com/joacofg/learn-relational-databases-by-building-a-database-of-video-game-characters
+git add .
